@@ -217,8 +217,12 @@ i {
 .name {
   font-size: 30px;
 }
-.text-heading {
+
+.main-text .text-heading{
   font-size: 20px;
+}
+.text-heading {
+
 
 }
 
@@ -226,6 +230,7 @@ i {
    height: 112px;
    font-family: Georgia, 游明朝, YuMincho, "Hiragino Mincho ProN",Meiryo, serif;
    font-size: 28px;
+   margin-top: 20px;
  }
 
  .footer-logo {
